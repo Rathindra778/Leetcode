@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Rathindra778/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Rathindra778/Leetcode/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Rathindra778/Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Rathindra778/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
